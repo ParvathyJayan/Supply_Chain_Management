@@ -18,4 +18,4 @@ In response to challenges faced by a Fast Moving Consumer Goods (FMCG) company i
 
 • Visualization: Present findings through visualizations to facilitate better decision-making and understanding of the supply chain.
 ## Machine Learning Algorithms:
-Here, we employ various supervised regression algorithms to address the optimization challenge: Linear Regression, Decision Tree, Random Forest,Gradient Boosting, and Support Vector Machine
+Here, we employ various supervised regression algorithms to address the optimization challenge: Linear Regression, Decision Tree, Random Forest,Gradient Boosting, and Support Vector Machine.
